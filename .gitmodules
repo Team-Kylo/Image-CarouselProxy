@@ -1,0 +1,12 @@
+[submodule "Product-Details"]
+	path = Product-Details
+	url = https://github.com/Team-Kylo/Product-Details.git
+[submodule "reviews"]
+	path = reviews
+	url = https://github.com/Team-Kylo/reviews.git
+[submodule "Additional-Items"]
+	path = Additional-Items
+	url = https://github.com/Team-Kylo/Additional-Items.git
+[submodule "Image-Carousel"]
+	path = Image-Carousel
+	url = https://github.com/Team-Kylo/Image-Carousel.git
